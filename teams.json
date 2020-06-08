@@ -1,5 +1,7 @@
 {
-    "teams": [
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#teams",
+    "@odata.count": 2,
+    "value": [
         {
             "id": "db49f71a-5416-4e8c-9011-576018567248",
             "displayName": "mangoappsplatform",
