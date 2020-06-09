@@ -6,7 +6,7 @@
             {
                 "id": "db49f71a-5416-4e8c-9011-576018567248",
                 "displayName": "Team 1",
-                "description": "Team 1",
+                "description": "Team 1 description",
                 "internalId": null,
                 "classification": null,
                 "specialization": null,
@@ -22,7 +22,7 @@
            {
                 "id": "db49f71a-5416-4e8c-9011-576018564526",
                 "displayName": "Team 2",
-                "description": "Team 2",
+                "description": "Team 2 description",
                 "internalId": null,
                 "classification": null,
                 "specialization": null,
