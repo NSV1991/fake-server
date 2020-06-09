@@ -67,5 +67,201 @@
                 }
             }
         ]
+    },
+    "documents": {
+        "@odata.context": "https://graph.microsoft.com/beta/$metadata#users('123')/insights/trending",
+        "value": [
+        {
+            "id": "123",
+            "weight": 743614.6241886764,
+            "resourceVisualization": {
+                "title": "Engineering Excellence",
+                "type": "spsite",
+                "mediaType": "application/octet-stream",
+                "previewImageUrl": "https://m365x214355.sharepoint.com/_api/v2.0/drives/b!CbtYWrofwUGBJWnaJkNwoEjdaHIOchVBo1I12xiJGL4AAAAAAAAAAAAAAAAAAAAA/items/01ZKFJJWIAAAAAAAAAAAAAAAAAAAAAAAAA/thumbnails/0/small/thumbnailContent",
+                "previewText": "\t\r\n\t  Engineering Excellence\r\n\t\r\n   \r\n  \r\n\r\n\r\n\r\n\r\n\r\n\t\tHome\r\n\t \r\n\r\n\r\n\r\n\r\n\r\n\r\n Documents\r\n\r\nType \r\n  \r\nName \r\n  \r\n\r\nThere are no items to show in this view of the \"Documents\" document library. \r\n\r\nFollow\r\njavascript: SP.SOD.executeFunc('followingc",
+                "containerWebUrl": "https://m365x214355.sharepoint.com",
+                "containerDisplayName": "Engineering Excellence",
+                "containerType": "Site"
+            },
+            "resourceReference": {
+                "webUrl": "https://m365x214355.sharepoint.com/ee",
+                "id": "123",
+                "type": "microsoft.graph.siteItem"
+            }
+        },
+        {
+            "id": "123",
+            "weight": 568407.3144158383,
+            "resourceVisualization": {
+                "title": "Fashion Events",
+                "type": "spsite",
+                "mediaType": "application/octet-stream",
+                "previewImageUrl": "https://m365x214355.sharepoint.com/_api/v2.0/drives/b!TkTlwdgS00OWsfL2ZVnvWPC9gbGAlohJgfeiSu5K_WoAAAAAAAAAAAAAAAAAAAAA/items/01LOL2YFQAAAAAAAAAAAAAAAAAAAAAAAAA/thumbnails/0/small/thumbnailContent",
+                "previewText": "Fashion events Channel ... everything you need to know all in one place. Announcements, Events, Information, and News.",
+                "containerDisplayName": "Fashion Events",
+                "containerType": "Site"
+            },
+            "resourceReference": {
+                "webUrl": "https://m365x214355.sharepoint.com/sites/FashionEvents",
+                "id": "123",
+                "type": "microsoft.graph.siteItem"
+            }
+        }]
+    },
+    "people": {
+        "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('123')/people",
+        "@odata.nextLink": "https://graph.microsoft.com/v1.0/me/people?$skip=0",
+        "value": [
+        {
+            "id": "123",
+            "displayName": "Marketing",
+            "givenName": null,
+            "surname": null,
+            "birthday": null,
+            "personNotes": null,
+            "isFavorite": false,
+            "jobTitle": null,
+            "companyName": null,
+            "yomiCompany": null,
+            "department": null,
+            "officeLocation": null,
+            "profession": null,
+            "userPrincipalName": null,
+            "imAddress": null,
+            "scoredEmailAddresses": [
+                {
+                    "address": "123",
+                    "relevanceScore": 1610612736,
+                    "selectionLikelihood": "notSpecified"
+                }
+            ],
+            "phones": [],
+            "personType": {
+                "class": "Group",
+                "subclass": "UnifiedGroup"
+            }
+        },
+        {
+            "id": "123",
+            "displayName": "Isaiah Langer",
+            "givenName": "Isaiah",
+            "surname": "Langer",
+            "birthday": null,
+            "personNotes": null,
+            "isFavorite": false,
+            "jobTitle": "Web Marketing Manager",
+            "companyName": null,
+            "yomiCompany": null,
+            "department": "Sales & Marketing",
+            "officeLocation": "20/1101",
+            "profession": null,
+            "userPrincipalName": "123",
+            "imAddress": "123",
+            "scoredEmailAddresses": [
+                {
+                    "address": "123",
+                    "relevanceScore": 1073741824,
+                    "selectionLikelihood": "notSpecified"
+                }
+            ],
+            "phones": [
+                {
+                    "type": "business",
+                    "number": "123"
+                }
+            ],
+            "personType": {
+                "class": "Person",
+                "subclass": "OrganizationUser"
+            }
+        },
+        {
+            "id": "123",
+            "displayName": "Product Launch Event",
+            "givenName": null,
+            "surname": null,
+            "birthday": null,
+            "personNotes": null,
+            "isFavorite": false,
+            "jobTitle": null,
+            "companyName": null,
+            "yomiCompany": null,
+            "department": null,
+            "officeLocation": null,
+            "profession": null,
+            "userPrincipalName": null,
+            "imAddress": null,
+            "scoredEmailAddresses": [
+                {
+                    "address": "123",
+                    "relevanceScore": 536870912,
+                    "selectionLikelihood": "notSpecified"
+                }
+            ],
+            "phones": [],
+            "personType": {
+                "class": "Group",
+                "subclass": "UnifiedGroup"
+            }
+        },
+        {
+            "id": "123",
+            "displayName": "HR Taskforce",
+            "givenName": null,
+            "surname": null,
+            "birthday": null,
+            "personNotes": null,
+            "isFavorite": false,
+            "jobTitle": null,
+            "companyName": null,
+            "yomiCompany": null,
+            "department": null,
+            "officeLocation": null,
+            "profession": null,
+            "userPrincipalName": null,
+            "imAddress": null,
+            "scoredEmailAddresses": [
+                {
+                    "address": "123",
+                    "relevanceScore": 483183821,
+                    "selectionLikelihood": "notSpecified"
+                }
+            ],
+            "phones": [],
+            "personType": {
+                "class": "Group",
+                "subclass": "UnifiedGroup"
+            }
+        },
+        {
+            "id": "123",
+            "displayName": "Contoso",
+            "givenName": null,
+            "surname": null,
+            "birthday": null,
+            "personNotes": null,
+            "isFavorite": false,
+            "jobTitle": null,
+            "companyName": null,
+            "yomiCompany": null,
+            "department": null,
+            "officeLocation": null,
+            "profession": null,
+            "userPrincipalName": "123",
+            "imAddress": null,
+            "scoredEmailAddresses": [
+                {
+                    "address": "123",
+                    "relevanceScore": 483183821,
+                    "selectionLikelihood": "notSpecified"
+                }
+            ],
+            "phones": [],
+            "personType": {
+                "class": "Other",
+                "subclass": "Unknown"
+            }
+        }]
     }
 }
