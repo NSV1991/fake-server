@@ -19,23 +19,22 @@
                 "funSettings": null,
                 "discoverySettings": null
             },
-            {
-                "id": "8385a4d6-1db2-4b50-99dd-4a86c1e3c461",
-                "displayName": "Test 2",
-                "description": "Test 2": null,
-                "visibility": null,
-                "webUrl": null,
-                "i
-",
+           {
+                "id": "db49f71a-5416-4e8c-9011-576018564526",
+                "displayName": "Team 2",
+                "description": "Team 2",
                 "internalId": null,
                 "classification": null,
-                "spsArchived": false,
+                "specialization": null,
+                "visibility": null,
+                "webUrl": null,
+                "isArchived": false,
                 "memberSettings": null,
                 "guestSettings": null,
                 "messagingSettings": null,
                 "funSettings": null,
                 "discoverySettings": null
-            }
+            },
         ]
     }
 }
