@@ -4,6 +4,22 @@
         "@odata.count": 2,
         "value": [
             {
+                "id": "db49f71a-5416-4e8c-9011-5760185649868",
+                "displayName": "Alpha Team",
+                "description": "Alpha Team  description",
+                "internalId": null,
+                "classification": null,
+                "specialization": null,
+                "visibility": null,
+                "webUrl": null,
+                "isArchived": false,
+                "memberSettings": null,
+                "guestSettings": null,
+                "messagingSettings": null,
+                "funSettings": null,
+                "discoverySettings": null
+            },
+            {
                 "id": "db49f71a-5416-4e8c-9011-576018567248",
                 "displayName": "Team 1",
                 "description": "Team 1 description",
