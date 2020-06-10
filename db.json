@@ -34,22 +34,6 @@
                 "messagingSettings": null,
                 "funSettings": null,
                 "discoverySettings": null
-            },
-            {
-                "id": "db49f71a-5416-4e8c-9011-576018564526",
-                "displayName": "Team 2",
-                "description": "Team 2 description",
-                "internalId": null,
-                "classification": null,
-                "specialization": null,
-                "visibility": null,
-                "webUrl": null,
-                "isArchived": false,
-                "memberSettings": null,
-                "guestSettings": null,
-                "messagingSettings": null,
-                "funSettings": null,
-                "discoverySettings": null
             }
         ]
     },
