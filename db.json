@@ -4,7 +4,7 @@
         "value": [
             {
                 "id": "8f08-21b57e2a0cc7",
-                "displayName": "Demo1",
+                "displayName": "Demo1 Sites",
                 "webUrl": "https://google.com/",
                 "sharepointIds": {
                     "siteId": "7597d43111b4",
@@ -18,6 +18,19 @@
             {
                 "id": "24500060af4e",
                 "displayName": "Communication",
+                "webUrl": "https://google.com/sites/Demo1",
+                "sharepointIds": {
+                    "siteId": "7b8837043bb2",
+                    "siteUrl": "https://google.com/sites/Demo1",
+                    "webId": "24500060af4e"
+                },
+                "siteCollection": {
+                    "hostname": "google.com"
+                }
+            },
+                        {
+                "id": "24500060af4e",
+                "displayName": "Demo share Site",
                 "webUrl": "https://google.com/sites/Demo1",
                 "sharepointIds": {
                     "siteId": "7b8837043bb2",
