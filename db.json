@@ -42,7 +42,7 @@
         "value": [
             {
                 "id": "8f08-21b57e2a0cc7",
-                "displayName": "Communication",
+                "displayName": "Demo1",
                 "webUrl": "https://google.com/",
                 "sharepointIds": {
                     "siteId": "7597d43111b4",
@@ -55,7 +55,7 @@
             },
             {
                 "id": "24500060af4e",
-                "displayName": "Demo1",
+                "displayName": "Communication",
                 "webUrl": "https://google.com/sites/Demo1",
                 "sharepointIds": {
                     "siteId": "7b8837043bb2",
