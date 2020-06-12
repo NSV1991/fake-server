@@ -96,17 +96,17 @@
         {
             "id": "529f5cf9-6c9a-4abf-a07d-e63cd7f54ac9",
             "displayName": "Lidia Holloway",
-            "imAddress": "sip:lidiah@mangoappsplatform.onmicrosoft.com",
+            "imAddress": "sip:lidiah@mangoappsplatform.onmicrosoft.com"
         },
         {
             "id": "69d19973-748f-4b42-be26-7fb2cc09b9cd",
             "displayName": "Lynne Robbins",
-            "imAddress": "sip:lynner@mangoappsplatform.onmicrosoft.com",
+            "imAddress": "sip:lynner@mangoappsplatform.onmicrosoft.com"
         },
         {
             "id": "376db46d-e3e7-4a57-b1b0-607d7e4ec406",
             "displayName": "Demo1",
-            "imAddress": null,
+            "imAddress": null
         }]
     }
 }
