@@ -89,154 +89,24 @@
         "@odata.nextLink": "https://graph.microsoft.com/v1.0/me/people?$skip=0",
         "value": [
         {
-            "id": "123",
-            "displayName": "Marketing",
-            "givenName": null,
-            "surname": null,
-            "birthday": null,
-            "personNotes": null,
-            "isFavorite": false,
-            "jobTitle": null,
-            "companyName": null,
-            "yomiCompany": null,
-            "department": null,
-            "officeLocation": null,
-            "profession": null,
-            "userPrincipalName": null,
-            "imAddress": null,
-            "scoredEmailAddresses": [
-                {
-                    "address": "123",
-                    "relevanceScore": 1610612736,
-                    "selectionLikelihood": "notSpecified"
-                }
-            ],
-            "phones": [],
-            "personType": {
-                "class": "Group",
-                "subclass": "UnifiedGroup"
-            }
+            "id": "db778eec-7814-47c5-9ccc-ac8a370ed920",
+            "displayName": "Alex Wilber",
+            "imAddress": "sip:alexw@mangoappsplatform.onmicrosoft.com"
         },
         {
-            "id": "123",
-            "displayName": "Isaiah Langer",
-            "givenName": "Isaiah",
-            "surname": "Langer",
-            "birthday": null,
-            "personNotes": null,
-            "isFavorite": false,
-            "jobTitle": "Web Marketing Manager",
-            "companyName": null,
-            "yomiCompany": null,
-            "department": "Sales & Marketing",
-            "officeLocation": "20/1101",
-            "profession": null,
-            "userPrincipalName": "123",
-            "imAddress": "123",
-            "scoredEmailAddresses": [
-                {
-                    "address": "123",
-                    "relevanceScore": 1073741824,
-                    "selectionLikelihood": "notSpecified"
-                }
-            ],
-            "phones": [
-                {
-                    "type": "business",
-                    "number": "123"
-                }
-            ],
-            "personType": {
-                "class": "Person",
-                "subclass": "OrganizationUser"
-            }
+            "id": "529f5cf9-6c9a-4abf-a07d-e63cd7f54ac9",
+            "displayName": "Lidia Holloway",
+            "imAddress": "sip:lidiah@mangoappsplatform.onmicrosoft.com",
         },
         {
-            "id": "123",
-            "displayName": "Product Launch Event",
-            "givenName": null,
-            "surname": null,
-            "birthday": null,
-            "personNotes": null,
-            "isFavorite": false,
-            "jobTitle": null,
-            "companyName": null,
-            "yomiCompany": null,
-            "department": null,
-            "officeLocation": null,
-            "profession": null,
-            "userPrincipalName": null,
-            "imAddress": null,
-            "scoredEmailAddresses": [
-                {
-                    "address": "123",
-                    "relevanceScore": 536870912,
-                    "selectionLikelihood": "notSpecified"
-                }
-            ],
-            "phones": [],
-            "personType": {
-                "class": "Group",
-                "subclass": "UnifiedGroup"
-            }
+            "id": "69d19973-748f-4b42-be26-7fb2cc09b9cd",
+            "displayName": "Lynne Robbins",
+            "imAddress": "sip:lynner@mangoappsplatform.onmicrosoft.com",
         },
         {
-            "id": "123",
-            "displayName": "HR Taskforce",
-            "givenName": null,
-            "surname": null,
-            "birthday": null,
-            "personNotes": null,
-            "isFavorite": false,
-            "jobTitle": null,
-            "companyName": null,
-            "yomiCompany": null,
-            "department": null,
-            "officeLocation": null,
-            "profession": null,
-            "userPrincipalName": null,
+            "id": "376db46d-e3e7-4a57-b1b0-607d7e4ec406",
+            "displayName": "Demo1",
             "imAddress": null,
-            "scoredEmailAddresses": [
-                {
-                    "address": "123",
-                    "relevanceScore": 483183821,
-                    "selectionLikelihood": "notSpecified"
-                }
-            ],
-            "phones": [],
-            "personType": {
-                "class": "Group",
-                "subclass": "UnifiedGroup"
-            }
-        },
-        {
-            "id": "123",
-            "displayName": "Contoso",
-            "givenName": null,
-            "surname": null,
-            "birthday": null,
-            "personNotes": null,
-            "isFavorite": false,
-            "jobTitle": null,
-            "companyName": null,
-            "yomiCompany": null,
-            "department": null,
-            "officeLocation": null,
-            "profession": null,
-            "userPrincipalName": "123",
-            "imAddress": null,
-            "scoredEmailAddresses": [
-                {
-                    "address": "123",
-                    "relevanceScore": 483183821,
-                    "selectionLikelihood": "notSpecified"
-                }
-            ],
-            "phones": [],
-            "personType": {
-                "class": "Other",
-                "subclass": "Unknown"
-            }
         }]
     }
 }
